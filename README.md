@@ -1,2 +1,3 @@
 # test-task-for-java-trainee-limestone-
-Test Task For Java Trainee Limestone 
+set output folder
+run method main in class Test
